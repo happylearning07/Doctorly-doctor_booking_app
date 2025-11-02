@@ -1,0 +1,64 @@
+# POST http://localhost:4000/api/admin/add-doctor
+# Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW
+# atoken:eyJhbGciOiJIUzI1NiJ9.YWRtaW5AZG9jdG9ybHkuY29tcXdlcnR5MTIz.bSysduOWupM5zHRdQF-UkXhACXUnmNHTCk51eTWQdu8
+
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW
+# Content-Disposition: form-data; name="name"
+
+# Dr. Emily Larson
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW
+# Content-Disposition: form-data; name="email"
+
+# emily@test.com
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW
+# Content-Disposition: form-data; name="password"
+
+# strong_@#$12345
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW
+# Content-Disposition: form-data; name="speciality"
+
+# Gynecologist
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW
+# Content-Disposition: form-data; name="degree"
+
+# MBBS
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW
+# Content-Disposition: form-data; name="experience"
+
+# 3
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW
+# Content-Disposition: form-data; name="about"
+
+# Experienced doctor
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW
+# Content-Disposition: form-data; name="fees"
+
+# 60
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW
+# Content-Disposition: form-data; name="address"
+
+# {"line1":"27th Cross, Richmond","line2":"Circle, Ring Road, London"}
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW
+# Content-Disposition: form-data; name="image"; filename="doc2.png"
+# Content-Type: image/png
+
+# < ../frontend/src/assets/doc2.png
+# ------WebKitFormBoundary7MA4YWxkTrZu0gW--
+
+
+
+
+
+# POST http://localhost:4000/api/admin/login
+# Content-Type: application/json
+
+# {
+#   "email": "admin@doctorly.com",
+#   "password": "qwerty123"
+# }
+
+//token -- eyJhbGciOiJIUzI1NiJ9.YWRtaW5AZG9jdG9ybHkuY29tcXdlcnR5MTIz.bSysduOWupM5zHRdQF-UkXhACXUnmNHTCk51eTWQdu8
+
+
+POST http://localhost:4000/api/admin/all-doctors
+aToken: eyJhbGciOiJIUzI1NiJ9.YWRtaW5AZG9jdG9ybHkuY29tcXdlcnR5MTIz.bSysduOWupM5zHRdQF-UkXhACXUnmNHTCk51eTWQdu8
