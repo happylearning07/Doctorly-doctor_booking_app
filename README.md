@@ -92,8 +92,8 @@ You must have the following installed on your system:
     npm run dev 
     ```
 ---
-Admin dashboard 
+## Admin dashboard 
 <img width="1896" height="842" alt="image" src="https://github.com/user-attachments/assets/6e3743a2-5c50-4e85-8475-2eaf035d1127" />
-Doctor appointment booking page
+## Doctor appointment booking page
 <img width="1631" height="840" alt="image" src="https://github.com/user-attachments/assets/cb9b7464-b79d-4f16-9cfa-642748f97266" />
 
