@@ -1,3 +1,5 @@
+<img width="1618" height="873" alt="image" src="https://github.com/user-attachments/assets/4b807899-4b82-473a-aec6-7a79bb904300" />
+
 # 👨‍⚕️ Doctorly: A Full-Stack Doctor Appointment Booking Platform
 
 Doctorly is a comprehensive web application designed to streamline the process of booking and managing appointments between patients and medical professionals. Built with a modern technology stack, it features distinct user roles for patients, doctors, and system administrators, ensuring efficient service delivery and optimal schedule management.
@@ -93,7 +95,15 @@ You must have the following installed on your system:
     ```
 ---
 ## Admin dashboard 
-<img width="1896" height="842" alt="image" src="https://github.com/user-attachments/assets/6e3743a2-5c50-4e85-8475-2eaf035d1127" />
+<img width="1882" height="866" alt="image" src="https://github.com/user-attachments/assets/86d4858c-c15a-4e37-910c-7b7651d565f7" />
+
 ## Doctor appointment booking page
 <img width="1631" height="840" alt="image" src="https://github.com/user-attachments/assets/cb9b7464-b79d-4f16-9cfa-642748f97266" />
+
+## User Profile Edit Section
+<img width="1567" height="860" alt="image" src="https://github.com/user-attachments/assets/e18da945-8c6f-414f-81b8-642c266238f2" />
+
+## Doctor Dashboard
+<img width="1914" height="883" alt="image" src="https://github.com/user-attachments/assets/5a7dadd2-24b8-4f78-8192-9ebe075f42cb" />
+
 
