@@ -1,5 +1,6 @@
 # Ignore node_modules directory
-node_modules/
-
+node_modules
+# Ensure this line is present to stop tracking the secret file
+backend/.env
 # Ignore common OS files
 .DS_Store
